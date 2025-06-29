@@ -3,7 +3,7 @@
 ## 🚗 For Customers (Rent a Car)
 
 ### 1. **Browse Cars** (No Account Needed)
-- Visit [MobiRent Cameroon](mobirent-cameroon.vercel.app)
+- Visit [MobiRent Cameroon](https://mobirent-cameroon.vercel.app)
 - Use search filters: location, brand, price
 - Click any car to see details
 
@@ -71,4 +71,4 @@ Approval → Add Cars → Manage Bookings → Track Revenue
 
 ---
 
-**Ready to start?** [Visit MobiRent Cameroon](mobirent-cameroon.vercel.app) now! 🚀
+**Ready to start?** [Visit MobiRent Cameroon](hhtps://mobirent-cameroon.vercel.app) now! 🚀
