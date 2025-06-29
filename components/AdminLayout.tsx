@@ -98,7 +98,7 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
       {/* Sidebar */}
       <div
         className={`fixed md:block w-64 bg-white shadow-lg h-screen
-          transition-transform duration-300 ease-in-out z-30
+          transition-transform duration-300 ease-in-out z-50
           transform ${sidebarOpen ? 'translate-x-0' : '-translate-x-full md:translate-x-0'}
           flex flex-col border-r border-gray-200`}
       >
