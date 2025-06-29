@@ -3,7 +3,7 @@
 ## 🚗 For Customers (Rent a Car)
 
 ### 1. **Browse Cars** (No Account Needed)
-- Visit [MobiRent Cameroon](/)
+- Visit [MobiRent Cameroon](mobirent-cameroon.vercel.app)
 - Use search filters: location, brand, price
 - Click any car to see details
 
@@ -30,7 +30,7 @@ Sign Up → Choose Car → Select Dates → Pay → Drive!
 - Scroll to "Partner with MobiRent" section
 - Click "Register Your Service"
 - Fill company details + upload logo
-- Wait 24hrs for approval
+- Wait under 24hrs for approval
 
 ### 2. **Add Your Cars**
 \`\`\`
@@ -71,4 +71,4 @@ Approval → Add Cars → Manage Bookings → Track Revenue
 
 ---
 
-**Ready to start?** [Visit MobiRent Cameroon](/) now! 🚀
+**Ready to start?** [Visit MobiRent Cameroon](mobirent-cameroon.vercel.app) now! 🚀
