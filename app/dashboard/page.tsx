@@ -26,6 +26,8 @@ export default function UserDashboard() {
       return
     }
 
+    //console.log(userProfile.role)
+
     if (user && userProfile) {
       if (userProfile.role === "admin") {
         router.push("/admin")
@@ -33,7 +35,7 @@ export default function UserDashboard() {
       }
       fetchDashboardData()
     }
-  }, [user, userProfile, authLoading, router])
+  }, [user, userProfile])
 
   const fetchDashboardData = async () => {
     if (!userProfile) return

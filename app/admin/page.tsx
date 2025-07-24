@@ -38,13 +38,13 @@ export default function AdminDashboard() {
       return
     }
 
-    if (userProfile.role !== "admin" || !userProfile.rental_service_id) {
-      router.push("/dashboard")
-      return
-    }
+    // if (userProfile.role !== "admin" || !userProfile.rental_service_id) {
+    //   router.push("/dashboard")
+    //   return
+    // }
 
     checkApprovalStatus()
-  }, [user, userProfile, router])
+  }, [user, userProfile])
 
   const checkApprovalStatus = async () => {
     try {

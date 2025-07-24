@@ -27,7 +27,7 @@ export default function AdminPendingPage() {
     }
 
     fetchRentalService()
-  }, [user, userProfile, router])
+  }, [user, userProfile])
 
   const fetchRentalService = async () => {
     if (!userProfile?.rental_service_id) {
@@ -44,15 +44,15 @@ export default function AdminPendingPage() {
 
       if (error) throw error
 
-      if (data.status === "approved") {
-        router.push("/admin")
-        return
-      }
+      // if (data.status === "approved") {
+      //   router.push("/admin")
+      //   return
+      // }
 
       setRentalService(data)
     } catch (error) {
       console.error("Error fetching rental service:", error)
-      router.push("/dashboard")
+      // router.push("/dashboard")
     } finally {
       setLoading(false)
     }

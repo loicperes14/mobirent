@@ -428,7 +428,7 @@ export default function LandingPage() {
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-400">
                 <li>Email: info@mobirent.cm</li>
-                <li>Phone: +237 6XX XXX XXX</li>
+                <li>Phone: +237 656 386 930</li>
               </ul>
             </div>
             <div>
@@ -437,7 +437,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 MobiRent Cameroon. All rights reserved.</p>
+            <p>&copy; 2025 MobiRent Cameroon. All rights reserved.</p>
           </div>
         </div>
       </footer>
